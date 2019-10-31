@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="lib" path="D:/api response/jars/all_jars_of API/activation-1.1.1.jar"/>
+	<classpathentry kind="lib" path="D:/api response/jars/all_jars_of API/annotations-13.0.jar"/>
+	<classpathentry kind="lib" path="D:/api response/jars/all_jars_of API/btf-1.2.jar"/>
+	<classpathentry kind="lib" path="D:/api response/jars/all_jars_of API/commons-codec-1.9.jar"/>
+	<classpathentry kind="lib" path="D:/api response/jars/all_jars_of API/commons-lang3-3.4.jar"/>
+	<classpathentry kind="lib" path="D:/api response/jars/all_jars_of API/commons-logging-1.2.jar"/>
+	<classpathentry kind="lib" path="D:/api response/jars/all_jars_of API/groovy-2.5.6.jar"/>
+	<classpathentry kind="lib" path="D:/api response/jars/all_jars_of API/groovy-json-2.5.6.jar"/>
+	<classpathentry kind="lib" path="D:/api response/jars/all_jars_of API/groovy-xml-2.5.6.jar"/>
+	<classpathentry kind="lib" path="D:/api response/jars/all_jars_of API/guava-16.0.1.jar"/>
+	<classpathentry kind="lib" path="D:/api response/jars/all_jars_of API/hamcrest-2.1.jar"/>
+	<classpathentry kind="lib" path="D:/api response/jars/all_jars_of API/httpclient-4.5.3.jar"/>
+	<classpathentry kind="lib" path="D:/api response/jars/all_jars_of API/httpcore-4.4.6.jar"/>
+	<classpathentry kind="lib" path="D:/api response/jars/all_jars_of API/httpmime-4.5.3.jar"/>
+	<classpathentry kind="lib" path="D:/api response/jars/all_jars_of API/jackson-annotations-2.9.0.jar"/>
+	<classpathentry kind="lib" path="D:/api response/jars/all_jars_of API/jackson-core-2.9.9.jar"/>
+	<classpathentry kind="lib" path="D:/api response/jars/all_jars_of API/jackson-coreutils-1.9.jar"/>
+	<classpathentry kind="lib" path="D:/api response/jars/all_jars_of API/jackson-databind-2.9.9.jar"/>
+	<classpathentry kind="lib" path="D:/api response/jars/all_jars_of API/javax.activation-api-1.2.0.jar"/>
+	<classpathentry kind="lib" path="D:/api response/jars/all_jars_of API/jaxb-api-2.3.1.jar"/>
+	<classpathentry kind="lib" path="D:/api response/jars/all_jars_of API/jaxb-osgi-2.3.0.1.jar"/>
+	<classpathentry kind="lib" path="D:/api response/jars/all_jars_of API/joda-time-2.9.7.jar"/>
+	<classpathentry kind="lib" path="D:/api response/jars/all_jars_of API/jopt-simple-5.0.3.jar"/>
+	<classpathentry kind="lib" path="D:/api response/jars/all_jars_of API/json-path-4.1.1.jar"/>
+	<classpathentry kind="lib" path="D:/api response/jars/all_jars_of API/json-path-4.1.1-javadoc.jar"/>
+	<classpathentry kind="lib" path="D:/api response/jars/all_jars_of API/json-path-4.1.1-sources.jar"/>
+	<classpathentry kind="lib" path="D:/api response/jars/all_jars_of API/json-schema-core-1.2.10.jar"/>
+	<classpathentry kind="lib" path="D:/api response/jars/all_jars_of API/json-schema-validator-2.2.10.jar"/>
+	<classpathentry kind="lib" path="D:/api response/jars/all_jars_of API/json-schema-validator-4.1.1.jar"/>
+	<classpathentry kind="lib" path="D:/api response/jars/all_jars_of API/json-schema-validator-4.1.1-javadoc.jar"/>
+	<classpathentry kind="lib" path="D:/api response/jars/all_jars_of API/json-schema-validator-4.1.1-sources.jar"/>
+	<classpathentry kind="lib" path="D:/api response/jars/all_jars_of API/jsr305-3.0.1.jar"/>
+	<classpathentry kind="lib" path="D:/api response/jars/all_jars_of API/kotlin-extensions-4.1.1.jar"/>
+	<classpathentry kind="lib" path="D:/api response/jars/all_jars_of API/kotlin-stdlib-1.3.50.jar"/>
+	<classpathentry kind="lib" path="D:/api response/jars/all_jars_of API/kotlin-stdlib-common-1.3.50.jar"/>
+	<classpathentry kind="lib" path="D:/api response/jars/all_jars_of API/kotlin-stdlib-jdk7-1.3.50.jar"/>
+	<classpathentry kind="lib" path="D:/api response/jars/all_jars_of API/libphonenumber-8.0.0.jar"/>
+	<classpathentry kind="lib" path="D:/api response/jars/all_jars_of API/mailapi-1.4.3.jar"/>
+	<classpathentry kind="lib" path="D:/api response/jars/all_jars_of API/msg-simple-1.1.jar"/>
+	<classpathentry kind="lib" path="D:/api response/jars/all_jars_of API/org.apache.sling.javax.activation-0.1.0.jar"/>
+	<classpathentry kind="lib" path="D:/api response/jars/all_jars_of API/reactive-streams-1.0.2.jar"/>
+	<classpathentry kind="lib" path="D:/api response/jars/all_jars_of API/reactor-core-3.2.0.RELEASE.jar"/>
+	<classpathentry kind="lib" path="D:/api response/jars/all_jars_of API/rest-assured-4.1.1.jar"/>
+	<classpathentry kind="lib" path="D:/api response/jars/all_jars_of API/rest-assured-4.1.1-javadoc.jar"/>
+	<classpathentry kind="lib" path="D:/api response/jars/all_jars_of API/rest-assured-4.1.1-sources.jar"/>
+	<classpathentry kind="lib" path="D:/api response/jars/all_jars_of API/rest-assured-common-4.1.1-javadoc.jar"/>
+	<classpathentry kind="lib" path="D:/api response/jars/all_jars_of API/rest-assured-common-4.1.1-sources.jar"/>
+	<classpathentry kind="lib" path="D:/api response/jars/all_jars_of API/rhino-1.7.7.1.jar"/>
+	<classpathentry kind="lib" path="D:/api response/jars/all_jars_of API/scala-library-2.13.0.jar"/>
+	<classpathentry kind="lib" path="D:/api response/jars/all_jars_of API/scala-support-4.1.1.jar"/>
+	<classpathentry kind="lib" path="D:/api response/jars/all_jars_of API/spring-aop-4.3.23.RELEASE.jar"/>
+	<classpathentry kind="lib" path="D:/api response/jars/all_jars_of API/spring-aop-5.1.0.RELEASE.jar"/>
+	<classpathentry kind="lib" path="D:/api response/jars/all_jars_of API/spring-beans-4.3.23.RELEASE.jar"/>
+	<classpathentry kind="lib" path="D:/api response/jars/all_jars_of API/spring-beans-5.1.0.RELEASE.jar"/>
+	<classpathentry kind="lib" path="D:/api response/jars/all_jars_of API/spring-commons-4.1.1.jar"/>
+	<classpathentry kind="lib" path="D:/api response/jars/all_jars_of API/spring-context-4.3.23.RELEASE.jar"/>
+	<classpathentry kind="lib" path="D:/api response/jars/all_jars_of API/spring-context-5.1.0.RELEASE.jar"/>
+	<classpathentry kind="lib" path="D:/api response/jars/all_jars_of API/spring-core-4.3.23.RELEASE.jar"/>
+	<classpathentry kind="lib" path="D:/api response/jars/all_jars_of API/spring-core-5.1.0.RELEASE.jar"/>
+	<classpathentry kind="lib" path="D:/api response/jars/all_jars_of API/spring-expression-4.3.23.RELEASE.jar"/>
+	<classpathentry kind="lib" path="D:/api response/jars/all_jars_of API/spring-expression-5.1.0.RELEASE.jar"/>
+	<classpathentry kind="lib" path="D:/api response/jars/all_jars_of API/spring-jcl-5.1.0.RELEASE.jar"/>
+	<classpathentry kind="lib" path="D:/api response/jars/all_jars_of API/spring-mock-mvc-4.1.1.jar"/>
+	<classpathentry kind="lib" path="D:/api response/jars/all_jars_of API/spring-test-4.3.23.RELEASE.jar"/>
+	<classpathentry kind="lib" path="D:/api response/jars/all_jars_of API/spring-test-5.1.0.RELEASE.jar"/>
+	<classpathentry kind="lib" path="D:/api response/jars/all_jars_of API/spring-web-4.3.23.RELEASE.jar"/>
+	<classpathentry kind="lib" path="D:/api response/jars/all_jars_of API/spring-web-5.1.0.RELEASE.jar"/>
+	<classpathentry kind="lib" path="D:/api response/jars/all_jars_of API/spring-webflux-5.1.0.RELEASE.jar"/>
+	<classpathentry kind="lib" path="D:/api response/jars/all_jars_of API/spring-webmvc-4.3.23.RELEASE.jar"/>
+	<classpathentry kind="lib" path="D:/api response/jars/all_jars_of API/spring-web-test-client-4.1.1.jar"/>
+	<classpathentry kind="lib" path="D:/api response/jars/all_jars_of API/tagsoup-1.2.1.jar"/>
+	<classpathentry kind="lib" path="D:/api response/jars/all_jars_of API/uri-template-0.9.jar"/>
+	<classpathentry kind="lib" path="D:/api response/jars/all_jars_of API/xml-path-4.1.1.jar"/>
+	<classpathentry kind="lib" path="D:/api response/jars/all_jars_of API/xml-path-4.1.1-javadoc.jar"/>
+	<classpathentry kind="lib" path="D:/api response/jars/all_jars_of API/xml-path-4.1.1-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Qualitest/Downloads/eclipse/log4j.jar/log4j.jar"/>
+	<classpathentry kind="con" path="org.testng.TESTNG_CONTAINER"/>
+	<classpathentry kind="lib" path="D:/Scribe/scribejava-apis-2.5.3.jar"/>
+	<classpathentry kind="lib" path="D:/Scribe/scribejava-core-2.5.3.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
